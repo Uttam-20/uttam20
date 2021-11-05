@@ -1,0 +1,19 @@
+body{
+	border-color:black;
+	border-width:2px;
+	border-style:solid;
+	padding:20px;
+	margin :20px;
+	margin-top:50px;
+	text-align:center;
+	border-radius:10px;
+}
+a:link{
+	color:blue;
+}
+a:visited{
+	color:red;
+}
+a:hover{
+	color:black;
+}
